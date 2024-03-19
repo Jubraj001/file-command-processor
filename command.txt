@@ -1,0 +1,5 @@
+// CAN SPECIFY COMMANDS IN THE FOLLOWING FORMAT:
+// CREATING A FILE COMMAND -> `create a file <fileName>`
+// DELETING A FILE COMMAND -> `delete the file <fileName>`
+// RENAMING A FILE COMMAND -> `rename the file <oldFileName> to <newFileName>`
+// ADDING TO A FILE COMMAND -> `add to the file <fileName> with this content: <content>`
